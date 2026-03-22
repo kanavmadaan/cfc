@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="960" viewBox="0 0 800 960">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0%" stop-color="#8c95a6"/>
+        <stop offset="100%" stop-color="#293244"/>
+      </linearGradient>
+      <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0%" stop-color="#f0d5b1"/>
+        <stop offset="100%" stop-color="#bf8852"/>
+      </linearGradient>
+    </defs>
+    <rect width="800" height="960" fill="url(#bg)"/>
+    <circle cx="650" cy="180" r="180" fill="rgba(255,255,255,.15)"/>
+    <circle cx="150" cy="760" r="170" fill="rgba(255,255,255,.11)"/>
+    <path d="M120 860C260 660 560 640 710 860" fill="rgba(15,8,8,.08)"/>
+    <g transform="translate(80,120)"><rect x="232" y="150" width="180" height="230" rx="28" fill="rgba(255,248,242,.92)"/>
+<path d="M232 182l68 68 22-34 22 34 68-68v52l-67 67v79H299v-79l-67-67z" fill="rgba(222,195,176,.72)"/>
+<circle cx="322" cy="120" r="29" fill="#f1d4c8"/></g>
+    <rect x="66" y="70" width="668" height="820" rx="38" fill="none" stroke="rgba(255,255,255,.35)"/>
+    <text x="74" y="828" font-family="Georgia, serif" font-size="56" fill="white">Midnight Regal</text>
+    <text x="74" y="872" font-family="Arial, sans-serif" font-size="23" fill="rgba(255,255,255,.82)">Festive bandi set • sharp ethnic look</text>
+    <path d="M74 96h142" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+    <text x="74" y="54" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,.82)">Choice Fashion Centre</text>
+    </svg>

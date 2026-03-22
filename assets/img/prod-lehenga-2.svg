@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="960" viewBox="0 0 800 960">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0%" stop-color="#b992ab"/>
+        <stop offset="100%" stop-color="#52213e"/>
+      </linearGradient>
+      <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0%" stop-color="#f0d5b1"/>
+        <stop offset="100%" stop-color="#bf8852"/>
+      </linearGradient>
+    </defs>
+    <rect width="800" height="960" fill="url(#bg)"/>
+    <circle cx="650" cy="180" r="180" fill="rgba(255,255,255,.15)"/>
+    <circle cx="150" cy="760" r="170" fill="rgba(255,255,255,.11)"/>
+    <path d="M120 860C260 660 560 640 710 860" fill="rgba(15,8,8,.08)"/>
+    <g transform="translate(80,120)"><path d="M410 150c40 22 74 61 88 113l25 89c12 43-3 88-39 114-35 26-89 44-156 44s-121-18-156-44c-36-26-51-71-39-114l25-89c14-52 48-91 88-113l17 43-34 101h198l-34-101z" fill="rgba(255,248,242,.92)"/>
+<path d="M318 122c15 0 25 13 25 29s-10 29-25 29-25-13-25-29 10-29 25-29z" fill="#f4d7cc"/>
+<path d="M290 177c15 17 41 17 56 0l40 49h-136z" fill="#f0e0d2"/></g>
+    <rect x="66" y="70" width="668" height="820" rx="38" fill="none" stroke="rgba(255,255,255,.35)"/>
+    <text x="74" y="828" font-family="Georgia, serif" font-size="56" fill="white">Mehfil Velvet</text>
+    <text x="74" y="872" font-family="Arial, sans-serif" font-size="23" fill="rgba(255,255,255,.82)">Reception lehenga • regal volume</text>
+    <path d="M74 96h142" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+    <text x="74" y="54" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,.82)">Choice Fashion Centre</text>
+    </svg>
